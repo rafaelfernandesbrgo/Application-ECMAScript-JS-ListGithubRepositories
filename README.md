@@ -24,7 +24,7 @@ Some concepts used
 * API request with AXIOS
 
 ****
-
+(pt-br)
 
 Essa é uma pequena aplicação destinada a exemplificar uma maneira mais modernos de se usar JS com ECMAScript, além de manipulação da DOM e utilização de AXIOS para fazer requisicao a API.
 
