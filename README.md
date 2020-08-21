@@ -1,4 +1,4 @@
-#  List of github repositories
+#  Application ECMAScript and JS - List Github Repositories
  JS, ECMAScript updates, axios and DOM manipulation
 
 
